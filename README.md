@@ -59,3 +59,7 @@
 # ⚠️ Disclaimer
 
 This GitHub account is strictly for educational purposes, ethical hacking practice, and authorized security research.
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Deniskumar-ux/Deniskumar-ux/blob/output/github-contribution-grid-snake.svg)
