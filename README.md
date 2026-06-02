@@ -46,7 +46,7 @@
 
 # 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/denis-kumar-s
+- LinkedIn: https://linkedin.com/in/deniskumar-s
 - GitHub: https://github.com/Deniskumar-ux
 - Email: deniskumardk02@gmail.com
 
