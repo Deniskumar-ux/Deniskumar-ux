@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S. Denis Kumar</h1>
-<h3 align="center">Cybersecurity Student | Offensive Security Enthusiast | VAPT Learner</h3>
+<h3 align="center">Cybersecurity Student | Offensive Security Enthusiast | VAPT Learner |  OSINT </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deniskumar-ux&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -19,33 +19,6 @@
   - Malware Analysis
 - ⚡ Active on TryHackMe & PortSwigger Labs
 - 🎯 Goal: Become a Security Engineer / Penetration Tester
-
----
-
-# 🚀 Featured Project
-
-## 🔥 SecureGrade – Cybersecurity Analysis Platform
-
-A full-stack cybersecurity platform for:
-- Web Vulnerability Scanning
-- File Security Analysis
-- Attack Path Visualization
-- Risk Scoring
-- Automated PDF Reporting
-
-### Tech Stack
-`FastAPI` `React` `TypeScript` `SQLite` `D3.js` `TailwindCSS`
-
-### Features
-✔ XSS Detection  
-✔ SQL Injection Checks  
-✔ SSL Misconfiguration Analysis  
-✔ Open Port Detection  
-✔ Security Grading System  
-✔ Interactive Attack Graphs  
-
-🔗 Project Link: https://github.com/Deniskumar-ux/Secure-Grade
-
 ---
 
 # 🛠️ Tech Stack
@@ -62,18 +35,6 @@ A full-stack cybersecurity platform for:
 ## Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deniskumar-ux&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deniskumar-ux&theme=tokyonight" />
-</p>
 
 ---
 
