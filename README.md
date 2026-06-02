@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm S. Denis Kumar</h1>
 <h3 align="center">Cybersecurity Student | Offensive Security Enthusiast | VAPT Learner |  OSINT </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deniskumar-ux&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 # 💫 About Me
